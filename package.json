@@ -1,0 +1,14 @@
+{
+  "name": "practice-with-rabbitmq",
+  "version": "1.0.0",
+  "description": "learn how to use the rabbitmq",
+  "main": "producer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harryhoang",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
